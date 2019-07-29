@@ -1,6 +1,0 @@
-file name is abc.txt
-ok.
-bbbbbbbbbbb
-aaa
-cccccc
-commit again. test for merge.
